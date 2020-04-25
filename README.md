@@ -36,6 +36,8 @@ Variational autoencoder models make strong assumptions concerning the distributi
 ![Image of Variational Autoencoder](https://iq.opengenus.org/content/images/2019/07/a6.png)
 
 
+### In future:  Work on the Contractive Autoencoder and UnderComplete Autoencoder
+
 # References
 https://iq.opengenus.org/types-of-autoencoder/
 
